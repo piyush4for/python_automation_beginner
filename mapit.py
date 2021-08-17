@@ -1,4 +1,4 @@
-#just type or copy any location name and it will open that map
+#just type or copy any location name and it will open that map little change by akhil
 import webbrowser, sys ,pyperclip
 
 sys.argv
